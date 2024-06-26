@@ -44,14 +44,14 @@ function Note(props) {
             placeholder="Take a note..."
             rows="3"
           />
-          <button className="note-save-button" onClick={handleSave}>💾</button>
+          <button className="note-save-button" onClick={handleSave}><span>💾</span></button>
         </div>
       ) : (
         <div>
           <h1>{props.title}</h1>
           <p>{props.content}</p>
-          <button className="note-delete-button" onClick={handleDelete}>🗑️</button>
-          <button className="note-edit-button" onClick={handleEdit}>✏️</button>
+          <button className="note-delete-button" onClick={handleDelete}><span>🗑️</span></button>
+          <button className="note-edit-button" onClick={handleEdit}><span>✏️</span></button>
         </div>
       )}
     </div>
