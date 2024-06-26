@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 ### Live Demo
-**Check out the live demo of QuickNotes** 
+**Check out the live demo of QuickNotes** : https://your-quicknotes.vercel.app/
 
 ### Contributions
 Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or enhancements.
