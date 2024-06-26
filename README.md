@@ -1,6 +1,7 @@
 # QuickNotes
 QuickNotes is a simple and efficient note-taking application built with React. This application allows users to create, edit, and delete notes effortlessly. Designed with a user-friendly interface, QuickNotes helps you keep your thoughts organized and accessible.
 
+
 ## Features
 **Create Notes:** Add new notes with titles and content.
 **Edit Notes:** Update existing notes in place without navigating away.
