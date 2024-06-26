@@ -25,7 +25,7 @@ Make sure you have the following installed:
 ### Installation
 **1. Clone the repository:** 
 ```bash
-git clone https://github.com/your-username/QuickNotes.git
+git clone https://github.com/svivek2002/QuickNotes.git
 ```
 
 **2. Navigate into the directory**
@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 ### Live Demo
-**Check out the live demo of QuickNotes** : https://your-quicknotes.vercel.app/
+**Check out the live demo of QuickNotes**: https://your-quicknotes.vercel.app/
 
 ### Contributions
 Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or enhancements.
