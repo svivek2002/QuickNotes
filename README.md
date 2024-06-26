@@ -19,8 +19,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 Make sure you have the following installed:
-- **1. Node.js**
-- **2. npm**
+- **Node.js**
+- **npm**
 
 ### Installation
 **1. Clone the repository:** 
