@@ -10,17 +10,16 @@ QuickNotes is a simple and efficient note-taking application built with React. T
 
 ## Technologies Used
 **React**
-**JavaScript**
-**CSS**
+**HTML/CSS**
+**JavaScript(ES6+)**
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 Make sure you have the following installed:
-
-**Node.js**
-**npm**
+**1. Node.js**
+**2. npm**
 
 ### Installation
 **1. Clone the repository:** 
